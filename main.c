@@ -5,9 +5,9 @@
  * Aktiviere/Deaktiviere einzelne Aufgaben hier:
  */
 #define TEST_AUFGABE1  0    /* Lagerverwaltung     (inventory.h)  */
-#define TEST_AUFGABE2  1    /* Verkettete Liste    (linkedlist.h) */
+#define TEST_AUFGABE2  0    /* Verkettete Liste    (linkedlist.h) */
 #define TEST_AUFGABE3  0    /* Strings & Kodierung (encode.h)     */
-#define TEST_AUFGABE4  0    /* Rekursion           (recursion.h)  */
+#define TEST_AUFGABE4  1    /* Rekursion           (recursion.h)  */
 #define TEST_AUFGABE5  0    /* Bit-Operationen     (bitfield.h)   */
 
 /* -------------------------------------------------------------- */
